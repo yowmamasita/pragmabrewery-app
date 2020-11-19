@@ -1,0 +1,6 @@
+[submodule "pragmabrewery"]
+	path = pragmabrewery
+	url = git@github.com:yowmamasita/pragmabrewery.git
+[submodule "pragmabrewery-dashboard"]
+	path = pragmabrewery-dashboard
+	url = git@github.com:yowmamasita/pragmabrewery-dashboard.git
